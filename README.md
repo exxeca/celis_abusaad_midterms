@@ -31,8 +31,9 @@ October 20, 2023
 
 ## Credits 
 
-Ezekiel John Celis,
 
+
+Ezekiel John Celis, Saif Abusaad
 
 ## License 
 
@@ -43,9 +44,16 @@ MIT License
 Which is Better? 
 Gaming PC VS Consoles 
 
-PC is More Better.
 
 ![DescribeThis](images/P2PDCO0.png)
+
+PC is More Better.
+
+![DescribeThis](images/Controller.png)
+
+Console is way better
+
+
 
 
 
