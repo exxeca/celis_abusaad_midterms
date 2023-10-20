@@ -43,9 +43,10 @@ MIT License
 Which is Better? 
 Gaming PC VS Consoles 
 
+PC is More Better.
+
 ![DescribeThis](images/P2PDCO0.png)
 
-PC is More Better.
 
 
 
