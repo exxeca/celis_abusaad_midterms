@@ -32,7 +32,10 @@ October 20, 2023
 
 ## Credits 
 
+
 Ezekiel John Celis, Saif Abusaad
+
+
 
 
 ## License 
@@ -50,7 +53,8 @@ PC is More Better.
 
 ![DescribeThis](images/Controller.png)
 
-console is way better
+Console is way better
+
 
 
 
